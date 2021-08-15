@@ -1,2 +1,2 @@
 # jogo-cobrinha
-Project DIO
+Projeto Digital Innovation One
